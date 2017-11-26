@@ -1,0 +1,3 @@
+./MapReduce1.py -- запуск сервера
+python mincemeat.py -p 1 localhost -- запуск воркера
+результат лежит в task1res.csv

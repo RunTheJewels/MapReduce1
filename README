@@ -1,3 +1,9 @@
+Задача 1:
 ./MapReduce1.py -- запуск сервера
 python mincemeat.py -p 1 localhost -- запуск воркера
 результат лежит в task1res.csv
+
+Задача 2:
+./MapReduce2.py -- запуск сервера
+python mincemeat.py -p 1 localhost -- запуск воркера
+результат лежит в task2res.csv

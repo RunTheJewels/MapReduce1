@@ -11,5 +11,6 @@ python mincemeat.py -p 1 localhost -- запуск воркера
 Задача 3:
 ./MapReduce3.py <Число строк a> <Число столбцов a / строк b> <Число столбцов b> -- запуск сервера
 python mincemeat.py -p 1 localhost -- запуск воркера
+читает матрицы из m1.csv, названия полей: matrix, row, col, val для соответсвенно имени матрицы (a/b) строка, столбец, значение
 результат лежит в task3res.csv
 

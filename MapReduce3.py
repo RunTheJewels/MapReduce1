@@ -48,7 +48,7 @@ def main():
         res = 0
         for key in d:
             res += d[key][0] * d[key][1]
-        return res
+        return res % 97
 
     s = mincemeat.Server()
     s.datasource = data

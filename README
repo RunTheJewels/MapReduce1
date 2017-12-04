@@ -7,3 +7,9 @@ python mincemeat.py -p 1 localhost -- запуск воркера
 ./MapReduce2.py -- запуск сервера
 python mincemeat.py -p 1 localhost -- запуск воркера
 результат лежит в task2res.csv
+
+Задача 3:
+./MapReduce3.py <Число строк a> <Число столбцов a / строк b> <Число столбцов b> -- запуск сервера
+python mincemeat.py -p 1 localhost -- запуск воркера
+результат лежит в task3res.csv
+
